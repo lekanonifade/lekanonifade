@@ -87,7 +87,7 @@ const lekanonifade = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lekanonifade&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://gh-trophy.cdnsoft.net/?username=lekanonifade&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -123,4 +123,3 @@ const lekanonifade = {
 *“First, solve the problem. Then, write the code.”* — John Johnson
 
 </div>
-# PROFILE
