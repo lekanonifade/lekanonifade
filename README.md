@@ -70,14 +70,7 @@ const lekanonifade = {
 
 <div align="center">
 
-<img height="180em" src="https://readme-stats-fast.vercel.app/api?username=lekanonifade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=lekanonifade&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=lekanonifade&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=lekanonifade&theme=tokyonight&hide_border=true" alt="Total contributions, current streak, and longest streak" />
 
 </div>
 
