@@ -1,39 +1,19 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=1100&color=7AA2F7&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Lekan+%F0%9F%91%8B;Frontend+Engineer+%E2%80%94+Lagos%2C+Nigeria;React+%C2%B7+Next.js+%C2%B7+Remix+%C2%B7+TypeScript;Shipped+UIs%2C+clean+data+layers%2C+real+products" alt="Animated greeting" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2600&pause=1000&color=58A6FF&center=true&vCenter=true&width=980&lines=Hi%2C+I'm+Lekan+%F0%9F%91%8B;Frontend+Engineer+%7C+Lagos%2C+Nigeria;React%2C+Next.js%2C+Remix+%26+more;Building+accessible%2C+high-performance+web+apps" alt="Animated greeting" />
 
 <br />
 
-<sub><strong>Building accessible, high-performance web apps</strong></sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6%2C11%2C20&height=130&section=header&text=&fontSize=0" width="100%" alt="" />
 
-<br /><br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24%2C18%2C14%2C11&height=3&section=header&text=&fontSize=0" width="72%" alt="" />
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24%2C18%2C14%2C11&height=140&section=header&text=&fontSize=0" width="100%" alt="" />
-
-<br />
-
-[![Profile views](https://komarev.com/ghpvc/?username=lekanonifade&label=Profile%20views&color=1a1b26&labelColor=7aa2f7&style=for-the-badge)](https://github.com/lekanonifade)
-[![Followers](https://img.shields.io/github/followers/lekanonifade?label=Followers&color=1a1b26&labelColor=bb9af7&style=for-the-badge&logo=github)](https://github.com/lekanonifade?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=lekanonifade&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/lekanonifade)
+[![GitHub followers](https://img.shields.io/github/followers/lekanonifade?label=Followers&style=social)](https://github.com/lekanonifade?tab=followers)
 
 </div>
 
-<br />
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24%2C18%2C14&height=2&section=header&text=&fontSize=0" width="88%" alt="" />
-</div>
-
-<br />
-
-<h2 align="center">About</h2>
-
-<p align="center"><em>Frontend engineer · interfaces, data fetching, and systems that stay maintainable.</em></p>
-
-<br />
+## About me
 
 ```javascript
 const lekanonifade = {
@@ -54,109 +34,69 @@ const lekanonifade = {
 - Always leveling up in the **JavaScript / TypeScript** ecosystem
 - Fun fact: great UI feels invisible—it just works
 
-<br />
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24%2C18%2C14&height=2&section=header&text=&fontSize=0" width="88%" alt="" />
-</div>
+## Tech stack
 
-<br />
+### Frontend
 
-<h2 align="center">Tech stack</h2>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<p align="center"><strong>Frontend</strong></p>
+### State, data & tooling
 
-<p align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img alt="Remix" src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-<br />
+### Backend & more
 
-<p align="center"><strong>State, data & tooling</strong></p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<p align="center">
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img alt="TanStack Query" src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-</p>
+---
 
-<br />
-
-<p align="center"><strong>Backend & more</strong></p>
-
-<p align="center">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24%2C18%2C14&height=2&section=header&text=&fontSize=0" width="88%" alt="" />
-</div>
-
-<br />
-
-<h2 align="center">Contributions & streak</h2>
+## GitHub stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=lekanonifade&theme=tokyonight&hide_border=true&border_radius=12&card_width=500" alt="Total contributions, current streak, and longest streak" />
+<img src="https://streak-stats.demolab.com?user=lekanonifade&theme=tokyonight&hide_border=true" alt="Total contributions, current streak, and longest streak" />
 
 </div>
 
-<br />
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24%2C18%2C14&height=2&section=header&text=&fontSize=0" width="88%" alt="" />
-</div>
-
-<br />
-
-<h2 align="center">Trophies</h2>
+## GitHub trophies
 
 <div align="center">
 
-[![trophy](https://gh-trophy.cdnsoft.net/?username=lekanonifade&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://gh-trophy.cdnsoft.net/?username=lekanonifade&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-<br />
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24%2C18%2C14&height=2&section=header&text=&fontSize=0" width="88%" alt="" />
-</div>
-
-<br />
-
-<h2 align="center">Activity</h2>
+## Contribution activity
 
 <div align="center">
 
-[![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=lekanonifade&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![lekanonifade's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lekanonifade&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-<br />
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24%2C18%2C14&height=2&section=header&text=&fontSize=0" width="88%" alt="" />
-</div>
-
-<br />
-
-<h2 align="center">Connect</h2>
+## Connect
 
 <div align="center">
 
@@ -167,16 +107,12 @@ const lekanonifade = {
 
 </div>
 
-<br />
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24%2C18%2C14%2C11&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
-<br />
-
-<blockquote>
-  <p align="center"><em>“First, solve the problem. Then, write the code.”</em> — John Johnson</p>
-</blockquote>
+*“First, solve the problem. Then, write the code.”* — John Johnson
 
 </div>
