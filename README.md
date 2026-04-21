@@ -32,7 +32,7 @@ const lekanonifade = {
 - I build **responsive, accessible** interfaces with **Tailwind CSS** and care about **performance** and **maintainability**
 - Comfortable across the stack: **TanStack Query**, **Redux**, **NextAuth**, **REST APIs**, and **Laravel** integrations
 - Always leveling up in the **JavaScript / TypeScript** ecosystem
-- Fun fact: great UI feels invisible—it just works
+- Fun fact: great UI feels invisible, it just works
 
 ---
 
