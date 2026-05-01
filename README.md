@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2600&pause=1000&color=58A6FF&center=true&vCenter=true&width=980&lines=Hi%2C+I'm+Lekan+%F0%9F%91%8B;Frontend+Engineer+%7C+Lagos%2C+Nigeria;React%2C+Next.js%2C+Remix+%26+more;Building+accessible%2C+high-performance+web+apps" alt="Animated greeting" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2600&pause=1000&color=58A6FF&center=true&vCenter=true&width=980&lines=Hi%2C+I'm+Lekan+%F0%9F%91%8B;Software+Engineer+%7C+Lagos%2C+Nigeria;React%2C+Next.js%2C+Remix+%26+more;Building+accessible%2C+high-performance+web+apps" alt="Animated greeting" />
 
 <br />
 
