@@ -6,7 +6,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6%2C11%2C20&height=130&section=header&text=&fontSize=0" width="100%" alt="" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=lekanonifade&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/lekanonifade)
 [![GitHub followers](https://img.shields.io/github/followers/lekanonifade?label=Followers&style=social)](https://github.com/lekanonifade?tab=followers)
 
 </div>
@@ -23,7 +22,7 @@ const lekanonifade = {
   state:      ["Redux", "TanStack Query"],
   backend:    ["REST APIs", "Laravel", "MySQL"],
   location:   "Lagos, Nigeria",
-  education:  "B.Eng Computer Engineering — Olabisi Onabanjo University",
+  education:  "B.Eng Computer Engineering, Olabisi Onabanjo University",
   motto:      "Clean interfaces, solid data layers, shipped products.",
 };
 ```
@@ -33,6 +32,25 @@ const lekanonifade = {
 - Comfortable across the stack: **TanStack Query**, **Redux**, **NextAuth**, **REST APIs**, and **Laravel** integrations
 - Always leveling up in the **JavaScript / TypeScript** ecosystem
 - Fun fact: great UI feels invisible, it just works
+
+---
+
+## Currently building & learning
+
+- **Building:** Migrating **Kiasup** from Laravel to **Next.js**: modern frontend architecture, accessible UI, and performance-first delivery
+- **Building:** Product work at **Treekle** / **FBIS Technologies**
+- **Learning:** Deepening **Remix** patterns and advanced **TypeScript** in production apps
+- **Exploring:** Server components, edge rendering, and better data-fetching patterns with **TanStack Query**
+
+---
+
+## Featured projects
+
+| Project | Description | Stack | Links |
+| --- | --- | --- | --- |
+| **Personal Portfolio** | Developer portfolio showcasing experience, projects, and contact | Next.js · React · Tailwind CSS | [Live](https://lekanonifade.vercel.app) |
+| **Kiasup** | Leading frontend work on a Laravel → Next.js platform migration | Next.js · React · Laravel · MySQL | Private |
+| **Treekle** | Building user-facing products at Treekle / FBIS Technologies | React · Next.js · REST APIs | Private |
 
 ---
 
@@ -48,6 +66,7 @@ const lekanonifade = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### State, data & tooling
 
@@ -69,6 +88,10 @@ const lekanonifade = {
 ## GitHub stats
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lekanonifade&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats: repos, stars, commits, and PRs" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekanonifade&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages on GitHub" />
 
 <img src="https://streak-stats.demolab.com?user=lekanonifade&theme=tokyonight&hide_border=true" alt="Total contributions, current streak, and longest streak" />
 
@@ -113,6 +136,6 @@ const lekanonifade = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
-*“First, solve the problem. Then, write the code.”* — John Johnson
+*“First, solve the problem. Then, write the code.”* - John Johnson
 
 </div>
