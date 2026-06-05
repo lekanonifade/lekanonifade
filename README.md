@@ -6,8 +6,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6%2C11%2C20&height=130&section=header&text=&fontSize=0" width="100%" alt="" />
 
-[![GitHub followers](https://img.shields.io/github/followers/lekanonifade?label=Followers&style=social)](https://github.com/lekanonifade?tab=followers)
-
 </div>
 
 ---
