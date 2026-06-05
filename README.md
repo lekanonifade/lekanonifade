@@ -17,7 +17,7 @@
 ```javascript
 const lekanonifade = {
   caresAbout: ["Accessibility", "Performance", "Maintainability"],
-  motto:      "Clean interfaces, solid data layers, shipped products.",
+  motto: "Clean interfaces, solid data layers, shipped products.",
 };
 ```
 
