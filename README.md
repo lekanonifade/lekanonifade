@@ -89,9 +89,9 @@ const lekanonifade = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lekanonifade&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats: repos, stars, commits, and PRs" />
+<img src="https://github-readme-stats.shion.dev/api?username=lekanonifade&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats: repos, stars, commits, and PRs" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekanonifade&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages on GitHub" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lekanonifade&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages on GitHub" />
 
 <img src="https://streak-stats.demolab.com?user=lekanonifade&theme=tokyonight&hide_border=true" alt="Total contributions, current streak, and longest streak" />
 
