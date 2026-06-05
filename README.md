@@ -16,13 +16,7 @@
 
 ```javascript
 const lekanonifade = {
-  name:       "Olamilekan Onifade",
-  role:       "Frontend Engineer (with PHP / Laravel on the side)",
-  focus:      ["React", "Next.js", "Remix", "Accessible & responsive UIs"],
-  state:      ["Redux", "TanStack Query"],
-  backend:    ["REST APIs", "Laravel", "MySQL"],
-  location:   "Lagos, Nigeria",
-  education:  "B.Eng Computer Engineering, Olabisi Onabanjo University",
+  caresAbout: ["Accessibility", "Performance", "Maintainability"],
   motto:      "Clean interfaces, solid data layers, shipped products.",
 };
 ```
@@ -107,6 +101,6 @@ const lekanonifade = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
-*“First, solve the problem. Then, write the code.”* - John Johnson
+_Solve the problem first. Then write the code that lasts._
 
 </div>
