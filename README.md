@@ -27,31 +27,6 @@ const lekanonifade = {
 };
 ```
 
-- Leading frontend work at **Kiasup** (migrating a Laravel app to **Next.js**) and building products at **Treekle** / **FBIS Technologies**
-- I build **responsive, accessible** interfaces with **Tailwind CSS** and care about **performance** and **maintainability**
-- Comfortable across the stack: **TanStack Query**, **Redux**, **NextAuth**, **REST APIs**, and **Laravel** integrations
-- Always leveling up in the **JavaScript / TypeScript** ecosystem
-- Fun fact: great UI feels invisible, it just works
-
----
-
-## Currently building & learning
-
-- **Building:** Migrating **Kiasup** from Laravel to **Next.js**: modern frontend architecture, accessible UI, and performance-first delivery
-- **Building:** Product work at **Treekle** / **FBIS Technologies**
-- **Learning:** Deepening **Remix** patterns and advanced **TypeScript** in production apps
-- **Exploring:** Server components, edge rendering, and better data-fetching patterns with **TanStack Query**
-
----
-
-## Featured projects
-
-| Project | Description | Stack | Links |
-| --- | --- | --- | --- |
-| **Personal Portfolio** | Developer portfolio showcasing experience, projects, and contact | Next.js · React · Tailwind CSS | [Live](https://lekanonifade.vercel.app) |
-| **Kiasup** | Leading frontend work on a Laravel → Next.js platform migration | Next.js · React · Laravel · MySQL | Private |
-| **Treekle** | Building user-facing products at Treekle / FBIS Technologies | React · Next.js · REST APIs | Private |
-
 ---
 
 ## Tech stack
@@ -89,10 +64,6 @@ const lekanonifade = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=lekanonifade&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats: repos, stars, commits, and PRs" />
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lekanonifade&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages on GitHub" />
-
 <img src="https://streak-stats.demolab.com?user=lekanonifade&theme=tokyonight&hide_border=true" alt="Total contributions, current streak, and longest streak" />
 
 </div>
@@ -103,7 +74,7 @@ const lekanonifade = {
 
 <div align="center">
 
-[![trophy](https://gh-trophy.cdnsoft.net/?username=lekanonifade&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://gh-trophy.cdnsoft.net/?username=lekanonifade&theme=tokyonight&no-frame=true&no-bg=true&column=-1&title=-Stars,-Issues,-PullRequest,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
