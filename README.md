@@ -20,6 +20,8 @@
 
 ```javascript
 const lekanonifade = {
+  role: "Software Engineer",
+  location: "Lagos, Nigeria",
   caresAbout: ["Accessibility", "Performance", "Maintainability"],
   motto: "Clean interfaces, solid data layers, shipped products.",
 };
