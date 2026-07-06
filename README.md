@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=165&section=header" width="100%" alt="" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1200&color=58A6FF&center=true&width=900&height=30&lines=React%2C+Next.js%2C+Flutter+%26+more;Building+accessible%2C+high-performance+apps" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1200&color=58A6FF&center=true&width=900&height=30&lines=React%2C+Next.js%2C+Laravel%2C+Flutter+%26+more;Building+accessible%2C+high-performance+apps" alt="Tagline" />
 
 <br />
 
